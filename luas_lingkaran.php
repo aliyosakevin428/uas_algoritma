@@ -1,6 +1,6 @@
 <?php
 // Menentukan nilai jari-jari
-$jarijari = 5; // Anda bisa mengubah nilai ini sesuai keinginan
+$jarijari = 7; // Anda bisa mengubah nilai ini sesuai keinginan
 
 // Menghitung luas lingkaran
 $hasil = M_PI * pow($jarijari, 2);
