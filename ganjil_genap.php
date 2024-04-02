@@ -1,5 +1,5 @@
 <?php
-// Fungsi untuk mendapatkan jenis angka (genap atau ganjil)
+// Saya Menggunakan Fungsi untuk mendapatkan jenis angka (genap atau ganjil)
 function getJenisAngka($angka) {
     if ($angka % 2 == 0) {
         return "genap";

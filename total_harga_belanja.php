@@ -7,7 +7,7 @@ $belanjaan = array(
     "mouse" => 650000,    // Harga mouse
 );
 
-// Menghitung total pengeluaran
+// Menghitung total pengeluaran dengan cara ditotal semuanya
 $total_pengeluaran = array_sum($belanjaan);
 
 // Menampilkan hasil

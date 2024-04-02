@@ -3,7 +3,7 @@
 $panjang = 20; 
 $lebar = 8;   
 
-// Menghitung keliling persegi panjang
+// Rumus Menghitung keliling persegi panjang
 $keliling = 2 * ($panjang + $lebar);
 
 // Menampilkan hasil

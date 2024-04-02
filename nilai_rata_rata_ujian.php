@@ -1,5 +1,5 @@
 <?php
-// Array asosiatif berisi nilai-nilai ujian
+// Disini saya juga menggunakan Array :)
 $nilai = array(
     "bahasa_indonesia" => 75,
     "matematika" => 70,
@@ -12,7 +12,7 @@ $jumlah_nilai = count($nilai);
 $total_nilai = array_sum($nilai);
 $ratarata = $total_nilai / $jumlah_nilai;
 
-// Menampilkan hasil
+// Menampilkan hasilnya
 echo "Rata-rata nilai ujian saya adalah: $ratarata <br>";
 echo "<br>Dari pembelajaran Bahasa Indonesia, Matematika, Biologi, dan Kimia";
 ?>

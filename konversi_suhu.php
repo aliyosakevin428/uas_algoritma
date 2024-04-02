@@ -6,7 +6,7 @@ function konversiKeKelvin($suhuCelsius) {
 }
 
 // Contoh pemanggilan fungsi
-$suhuCelsius = 25; // bisa di ubah sesuka hati dalam satuan Celsius
+$suhuCelsius = 25; 
 $suhuKelvin = konversiKeKelvin($suhuCelsius);
 
 // Menampilkan hasil

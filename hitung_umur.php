@@ -8,6 +8,6 @@ $tahunSekarang = date("Y");
 // Menghitung umur dalam abad
 $umur = ($tahunSekarang - $tahunLahir) / 100;
 
-// Menampilkan hasil
+// Menampilkan hasil dari atas
 echo "Umur saya tahun ini adalah: $umur abad.";
 ?>

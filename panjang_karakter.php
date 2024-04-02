@@ -2,7 +2,7 @@
 // Variable Nama Saya
 $nama = "Aliyosa Kevin"; // Ganti "Contoh Nama" dengan nama Anda
 
-// Menghitung jumlah karakter
+// Menghitung jumlah karakter. disini saya menggunakan "strlen".
 $jumlah_karakter = strlen($nama);
 
 // Menampilkan hasil untuk diatas

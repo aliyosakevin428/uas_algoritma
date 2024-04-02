@@ -1,8 +1,7 @@
 <?php
 // Nilai yang ingin dicek
-$nilai = 111; 
+$nilai = 95; 
 
-// Untuk Mendapatkan grade nilai
 if ($nilai >= 0 && $nilai <= 40) {
     $grade = "E";
 } elseif ($nilai >= 41 && $nilai <= 50) {

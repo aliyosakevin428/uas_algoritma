@@ -1,5 +1,5 @@
 <?php
-// Function untuk memeriksa apakah sebuah angka adalah bilangan prima
+// Function untuk memeriksa apakah sebuah angka adalah bilangan prima menggunakan "isprime" 
 function isPrime($angka) {
     // Jika angka kurang dari atau sama dengan 1, maka bukan bilangan prima
     if ($angka <= 1) {
